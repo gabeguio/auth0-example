@@ -5,6 +5,6 @@ pre-reqs: gradle
 
 # setup frontend
 pre-reqs: npm
-1. `npm install`
-2. `spa_angular_typescript_hello-world`
+1. `cd spa_angular_typescript_hello-world` 
+2. `npm install`
 3. `npm start`
